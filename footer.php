@@ -3,7 +3,7 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-12 col-sm-12 col-12">
-                <img loading="lazy" src="uploads/system/b75d56b5a93590ce01464acd96a853f1.png">
+                <img loading="lazy" src="uploads/system/logo2.png" style="height: 141px; width: 254px;">
                 <p>Study any topic, anytime. explore thousands of courses for the lowest price ever!</p>
                 <div class="lattest-news efooter">
                   <div class="row">

@@ -19,7 +19,7 @@ if(isset($_POST['login'])) {
     if($num == 1) {
         $_SESSION['loggedin'] = true;
         $_SESSION['username'] = $username;
-        header("location: index.php");
+        header("location: ebook2dbf.php");
         exit();
     } else {
         echo "<script>alert('Invalid Details $username Sir ji');</script>";

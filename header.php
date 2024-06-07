@@ -6,7 +6,7 @@
 <!-- Mirrored from demo.creativeitem.com/academy/ by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Jun 2024 11:12:27 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-			<title>shivji</title>
+			<title>LMS</title>
 	
 
 	<meta charset="utf-8">

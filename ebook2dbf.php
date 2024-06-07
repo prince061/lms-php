@@ -4,7 +4,7 @@
 <!-- Mirrored from demo.creativeitem.com/academy/ebook?category=science-fiction-amp-fantasy&price=all&rating=all by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 01 Jun 2024 11:14:49 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
-			<title>Ebooks | Academy</title>
+			<title>Academy</title>
 	
 
 	<meta charset="utf-8">
