@@ -1,0 +1,1 @@
+{"redirectTo":"https:\/\/demo.creativeitem.com\/academy\/home\/lesson\/introduction-and-learn-bootstrap\/28\/130"}
