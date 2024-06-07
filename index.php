@@ -41,7 +41,7 @@
             <div class="col-lg-12 col-md-12 col-sm-12 col-12 order-2 order-lg-1">
                 <div class="h-1-banner-text EbannerLeft position-relative">
                                         <h1 class="wow animate__animated  animate__fadeIn" data-wow-duration="1000" data-wow-delay="200">
-                        Start learning  with<span class="d-inline-block">Hiit</span>                    </h1>
+                        Start learning with <br> <span class="d-inline-block">Hiit</span>                    </h1>
                 
 
                     <div class="EbannerTop wow animate__animated  animate__fadeInUp opacityOnUp" data-wow-duration="1000" data-wow-delay="200">
@@ -257,7 +257,7 @@
                                                          
                             <!-- <span class="category-hide-icon"><i class="fa-solid fa-angle-right"></i></span> -->
                             <div class="eText">
-                                 <h5 class="pt-0"> Blender</h5>
+                                 <h5 class="pt-0"> Office Automation</h5>
                                  <p class="hide-cat-text">1 Courses</p>
                             </div>
                          </a>
@@ -270,7 +270,7 @@
                                                          
                             <!-- <span class="category-hide-icon"><i class="fa-solid fa-angle-right"></i></span> -->
                             <div class="eText">
-                                 <h5 class="pt-0"> Sewing</h5>
+                                 <h5 class="pt-0"> Cosmetology</h5>
                                  <p class="hide-cat-text">1 Courses</p>
                             </div>
                          </a>
@@ -283,7 +283,7 @@
                                                          
                             <!-- <span class="category-hide-icon"><i class="fa-solid fa-angle-right"></i></span> -->
                             <div class="eText">
-                                 <h5 class="pt-0"> Motion Graphics</h5>
+                                 <h5 class="pt-0"> INA Nanny</h5>
                                  <p class="hide-cat-text">1 Courses</p>
                             </div>
                          </a>
@@ -296,7 +296,7 @@
                                                          
                             <!-- <span class="category-hide-icon"><i class="fa-solid fa-angle-right"></i></span> -->
                             <div class="eText">
-                                 <h5 class="pt-0"> Lighting Design</h5>
+                                 <h5 class="pt-0"> Python Programming</h5>
                                  <p class="hide-cat-text">1 Courses</p>
                             </div>
                          </a>
@@ -322,7 +322,7 @@
                                                          
                             <!-- <span class="category-hide-icon"><i class="fa-solid fa-angle-right"></i></span> -->
                             <div class="eText">
-                                 <h5 class="pt-0"> Bootstrap</h5>
+                                 <h5 class="pt-0"> C/C++ Programming</h5>
                                  <p class="hide-cat-text">1 Courses</p>
                             </div>
                          </a>
@@ -340,7 +340,7 @@
 
 
 <!---------  Expert Instructor Start ---------------->
-<section class="expert-instructor eExpert-instruction top-categories py-5 wow  animate__animated animate__fadeInUp opacityOnUp" data-wow-duration="1000" data-wow-delay="400">
+<!-- <section class="expert-instructor eExpert-instruction top-categories py-5 wow  animate__animated animate__fadeInUp opacityOnUp" data-wow-duration="1000" data-wow-delay="400">
     <div class="container">
         <div class="row">
             <div class="col-lg-3"></div>
@@ -454,7 +454,7 @@
                             </div>
         </div>
     </div>
-</section>
+</section> -->
 
 
 
@@ -473,8 +473,8 @@
 
 
 <!------------- Become Students Section start --------->
-<section class="student py-5 ">
-    <div class="container">
+<!-- <section class="student py-5 ">
+    <div class="container"> -->
        <!-- <div class="row align-items-center">
         <div class="col-lg-7  wow  animate__animated animate__fadeInUp opacityOnUp" data-wow-duration="1000" data-wow-delay="500" data-wow-duration="1000" data-wow-delay="600">
             <div class="ePromotion">
@@ -493,20 +493,20 @@
         </div>
        </div> -->
 
-        <div class="row eStudent">
+        <!-- <div class="row eStudent">
             <div class="col-lg-6   wow  animate__animated animate__fadeInUp opacityOnUp" data-wow-duration="1000" data-wow-delay="650">
                 <div class="student-body-1">
                     <div class="row">
                         <div class="col-lg-8 col-md-8 col-sm-12">
                             <div class="student-body-text">
-                                <!-- <img loading="lazy" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/2.png"> -->
+                                 <img loading="lazy" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/2.png"> 
                                 <h1>Join now to start learning</h1>
                                 <p>Learn from our quality instructors! </p>
                                 <a href="sign_up.php">Get started</a>
                             </div>
                         </div>
                         <div class="col-lg-4 col-md-4 col-sm-12 ">
-                            <!-- <img loading="lazy" class="man" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/instractorN.png"> -->
+                             <img loading="lazy" class="man" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/instractorN.png"> --
                         </div>
                      </div>
                 </div>      
@@ -516,21 +516,21 @@
                     <div class="row">
                             <div class="col-lg-8  col-md-8 col-sm-12">
                                 <div class="student-body-text">
-                                  <!-- <img loading="lazy" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/2.png"> -->
+                                  <!-<img loading="lazy" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/2.png"> -
                                     <h1>Become a new instructor</h1>
                                     <p>Teach thousands of students and earn money! </p>
                                                                             <a  href="sign_up5ef0.php?instructor=yes">Join now</a>
                                                                     </div>
                             </div>
                             <div class="col-lg-4 col-md-4 col-sm-12">
-                            <!-- <img loading="lazy" class="man" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/student-2.png"> -->
+                            <! <img loading="lazy" class="man" src="https://demo.creativeitem.com/academy/assets/frontend/default-new/image/student-2.png"> 
                             </div>
                         </div>  
                     </div> 
                 </div>
                     </div>
     </div>
-</section>
+</section> -->
 <!------------- Become Students Section End --------->
 
 <div class="py-4 w-100"></div>
